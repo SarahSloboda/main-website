@@ -102,7 +102,7 @@ button {  width: auto; overflow: visible; }
  
 /*include all elements that utilize typekit here*/
 
-.js input[type="submit"], .js #calendar .tec-button-off, .js #calendarList .tec-button-off, .js #newsletterBox h2, .js .button, .js #calendar .tec-button-on, .js #calendarList .tec-button-on, .js #blogContent .tag-title, .js #blogContent .archive-title, .js .blog #content hgroup h2 {
+.js #calendar .tec-button-off, .js #calendarList .tec-button-off, .js #newsletterBox h2, .js .button, .js #calendar .tec-button-on, .js #calendarList .tec-button-on, .js #blogContent .tag-title, .js #blogContent .archive-title, .js .blog #content hgroup h2 {
 	visibility: hidden;
 }/* removed js h1 to make autoload work */
 /* 

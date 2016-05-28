@@ -418,7 +418,8 @@ function newsletter(){
 		event.preventDefault();
 		updateHomeWindow();
 		var emailAdd = $('#emailOne').val();
-		$('#emailTwo input').val(emailAdd);
+		$('#newsletterBoxOuter #id_email').val(emailAdd);
+		$('#newsletterBoxOuter #e2ma_signup_image_container').hide();
 		$('#newsletterBoxOuter').show();
 	});
 	
