@@ -88,77 +88,77 @@
 
 			<div class="e2ma_signup_form" id="e2ma_signup_form">
 
-		<div class="e2ma_signup_message" id="e2ma_signup_message">    
-        <div>Download Sarah Sloboda's What to Wear guide to make sure you dress your best for your family's photo shoot. Get her monthly newsletter with inspiration for capturing gorgeous photos throughout the year.</div>
-    </div>
+				<div class="e2ma_signup_message" id="e2ma_signup_message">    
+    	    <div>Download Sarah Sloboda's What to Wear guide to make sure you dress your best for your family's photo shoot. Get her monthly newsletter with inspiration for capturing gorgeous photos throughout the year.</div>
+    		</div>
     
-  <div class="e2ma_signup_form_container" id="e2ma_signup_form_container">
+			  <div class="e2ma_signup_form_container" id="e2ma_signup_form_container">
 
-    <form target="_blank" method="post" id="e2ma_signup" name="signup" action="https://app.e2ma.net/app/view:Join/signupId:76470/acctId:26470">
+		    <form target="_blank" method="post" id="e2ma_signup" name="signup" action="https://app.e2ma.net/app/view:Join/signupId:76470/acctId:26470">
 
-		<input type="hidden" name="member_id" value="">
-    <input type="hidden" name="prev_member_email" value="">
-    <input type="hidden" name="signup_name" value="none">
- 
-    <div class="e2ma_signup_form_row">
-      <div class="e2ma_signup_form_label">
+					<input type="hidden" name="member_id" value="">
+			    <input type="hidden" name="prev_member_email" value="">
+			    <input type="hidden" name="signup_name" value="none">
+			 
+			    <div class="e2ma_signup_form_row">
+			      <div class="e2ma_signup_form_label">
+			        
+			        first name
+			      </div>
+			      <div class="e2ma_signup_form_element"><input name="emma_member_name_first" type="text"></div>
+			    </div>
+
+			    <div class="e2ma_signup_form_row">
+			      <div class="e2ma_signup_form_label">last name
+			      </div>
+			      <div class="e2ma_signup_form_element"><input name="emma_member_name_last" type="text"></div>
+			    </div>
+
+			    <div class="e2ma_signup_form_row">
+			      <div class="e2ma_signup_form_label">
+			        
+			        <span class="e2ma_signup_form_required_asterix">*</span>
+			        
+			        email
+			      </div>
+
+			      <div id="emailTwo" class="e2ma_signup_form_element"><input name="emma_member_email" type="text"></div>
+			    </div>
+
+			    <div class="e2ma_signup_form_row">
+      			<div class="e2ma_signup_form_label">
         
-        first name
-      </div>
-      <div class="e2ma_signup_form_element"><input name="emma_member_name_first" type="text"></div>
-    </div>
+			        How did you hear about us?
+			      </div>
+			      <div class="e2ma_signup_form_element"><select name="emma_member_wildcard_29824">
+				<option value="friend">friend</option>
+				<option value="magazine">magazine</option>
 
-    <div class="e2ma_signup_form_row">
-      <div class="e2ma_signup_form_label">last name
-      </div>
-      <div class="e2ma_signup_form_element"><input name="emma_member_name_last" type="text"></div>
-    </div>
+				<option value="parenting blog">parenting blog</option>
+				<option value="moms' group">moms' group</option>
+				<option value="fundraiser">fundraiser</option>
+				<option value="other event">other event</option>
+				<option value="google search">google search</option>
+				<option value="website referral">website referral</option>
 
-    <div class="e2ma_signup_form_row">
-      <div class="e2ma_signup_form_label">
-        
-        <span class="e2ma_signup_form_required_asterix">*</span>
-        
-        email
-      </div>
+				<option value="A Child Grows in Brooklyn">A Child Grows in Brooklyn</option>
+				<option value="Citibabes">Citibabes</option>
+				<option value="SoHo House">SoHo House</option>
+				<option value="Urban Baby">Urban Baby</option>
+			</select></div>
+			    </div>
+			    
+			    <div class="e2ma_signup_form_required_footnote"><span class="e2ma_signup_form_required_asterix">*</span> required</div>
 
-      <div id="emailTwo" class="e2ma_signup_form_element"><input name="emma_member_email" type="text"></div>
-    </div>
-
-    <div class="e2ma_signup_form_row">
-      <div class="e2ma_signup_form_label">
-        
-        How did you hear about us?
-      </div>
-      <div class="e2ma_signup_form_element"><select name="emma_member_wildcard_29824">
-	<option value="friend">friend</option>
-	<option value="magazine">magazine</option>
-
-	<option value="parenting blog">parenting blog</option>
-	<option value="moms' group">moms' group</option>
-	<option value="fundraiser">fundraiser</option>
-	<option value="other event">other event</option>
-	<option value="google search">google search</option>
-	<option value="website referral">website referral</option>
-
-	<option value="A Child Grows in Brooklyn">A Child Grows in Brooklyn</option>
-	<option value="Citibabes">Citibabes</option>
-	<option value="SoHo House">SoHo House</option>
-	<option value="Urban Baby">Urban Baby</option>
-</select></div>
-    </div>
-    
-    <div class="e2ma_signup_form_required_footnote"><span class="e2ma_signup_form_required_asterix">*</span> required</div>
-
-    <div class="e2ma_signup_form_button_row" id="e2ma_signup_form_button_row">
-      <input id="e2ma_signup_submit_button" class="e2ma_signup_form_button" name="Submit" value="Submit" type="submit">
-    </div>
-    
-  </form>
-  
-  </div><!-- end form container -->
-</div><!-- end form -->
-			
+			    <div class="e2ma_signup_form_button_row" id="e2ma_signup_form_button_row">
+			      <input id="e2ma_signup_submit_button" class="e2ma_signup_form_button" name="Submit" value="Submit" type="submit">
+			    </div>
+			    
+			  </form>
+			  
+			  </div><!-- end form container -->
+			</div><!-- end form -->
+						
 		</section>
 		
 	</div><!-- End Header -->
