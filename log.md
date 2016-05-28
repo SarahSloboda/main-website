@@ -16,3 +16,7 @@
 ** Fixed the newsletter() in script.js to work correctly with the new emma JS
 *** Hides the header image
 *** Copies the email address from the main page into the popup.
+* Set-up software:
+** Filezilla
+** Sublime
+** Github Desktop
