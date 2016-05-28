@@ -8,7 +8,7 @@
 * Moved header, script file, and style.css into github
 * script file can only be moved via FTP even though in WP theme folder
 * Made button show up 
-* 1) Removed ".js input[type="submit"]" from "visibility: hidden;" in style.css
+  * 1) Removed ".js input[type="submit"]" from "visibility: hidden;" in style.css
 * 2)Unclear why this was there in the first place
 * 3) Left a corresponding note in the style.css
 * Fixed emma integration:
